@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sargam Malik
+- 💻I am pursuing bachelor's in technology with specialization in artifical intelligence
 - 👀 I’m interested in artifical intelligence and machine learning
 - 🌱 I’m currently learning DAA,JAVA,DS,C,C++,AI ML
 -  🎯 Goals: Striving to become a proficient AI researcher.
